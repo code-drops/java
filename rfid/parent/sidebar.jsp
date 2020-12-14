@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+    <head>
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1"><style>
 body {
@@ -45,6 +46,7 @@ body {
   .sidenav a {font-size: 18px;}
 }
 </style>
+    </head>
 <body>
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
